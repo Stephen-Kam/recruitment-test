@@ -1,4 +1,10 @@
 
+# IntelliJ IDEA fles
+*.idea
+*.iml
+
+target
+target/*
 logs
 project/project
 project/target
