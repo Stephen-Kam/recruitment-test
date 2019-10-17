@@ -17,3 +17,7 @@
     b. Logging into the service
     
     c. Find the most expensive dress and add it to the cart
+    
+### What will be judged
+
+- The quality of the code written (number of lines, how reusable etc.)
